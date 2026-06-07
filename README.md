@@ -8,7 +8,7 @@ A simple and clean Todo List application built with React. This project helps us
 
 You can preview the application below:
 
-![Todo App Screenshot 1](./src/assets/131602.png) with="700px"/>
+![Todo App Screenshot 1](./src/assets/131602.png)
 
 ![Todo App Screenshot 2](./src/assets/131620.png)
 
