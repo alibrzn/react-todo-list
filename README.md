@@ -8,7 +8,7 @@ A simple and clean Todo List application built with React. This project helps us
 
 You can preview the application below:
 
-<img src="./src/assets/131602.png" width="700" />
+<img style="border-radius: 25px;" src="./src/assets/131602.png" width="700" />
 
 
 <img src="./src/assets/131620.png" width="700" />
