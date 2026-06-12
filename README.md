@@ -13,7 +13,7 @@ You can preview the application below:
 
 <img src="./src/assets/131620.png" width="700" />
 
-<img src="./src/assets/131633.png" width="700" />
+<img src="./src/assets/131633.png" width="200" height="auto" />
 
 <img src="./src/assets/07131524.png" width="700" />
 
