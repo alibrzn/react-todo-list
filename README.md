@@ -1,5 +1,10 @@
 # 📝 React Todo List App
 
+![React](https://img.shields.io/badge/React-19-blue?logo=react)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4-38BDF8?logo=tailwindcss)
+![Responsive](https://img.shields.io/badge/Responsive-Yes-success)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 A simple and clean Todo List application built with React. This project helps users manage their daily tasks by adding, deleting, and marking tasks as completed.
 
 ---
